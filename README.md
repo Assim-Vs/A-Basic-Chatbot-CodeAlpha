@@ -1,5 +1,3 @@
-# A-Basic-Chatbot-CodeAlpha
-
 # 🤖 Anu - Basic Chatbot with UI
 
 **CodeAlpha Internship - Task 4: Basic Chatbot**
@@ -142,3 +140,4 @@ You: bye
 **Created for:** CodeAlpha Internship Program  
 **Task:** 4 - Basic Chatbot  
 **Bot Name:** Anu 🤖
+
